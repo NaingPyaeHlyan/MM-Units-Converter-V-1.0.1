@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Units Converter-MM</string>
+    <string name="tab_length">Length</string>
+    <string name="tab_mass">Mass</string>
+    <string name="tab_volume">Volume</string>
+    <string name="card_text">Current Convert Rate</string>
+    <string name="about_title">About</string>
+
+    <string-array name="length_array_MM">
+        <item>ဆံခ်ည္</item>
+        <item>ႏွမ္း</item>
+        <item>မုေယာ</item>
+        <item>လက္သစ္</item>
+        <item>မိုက္</item>
+        <item>ထြာ</item>
+        <item>ေတာင္</item>
+        <item>လံ</item>
+        <item>တာ</item>
+        <item>ဥသဘ</item>
+        <item>ေကာသ</item>
+        <item>ဂါဝုတ်</item>
+        <item>ယူဇနာ</item>
+        <item>မီလီမီတာ</item>
+        <item>စင္တီမီတာ</item>
+        <item>မီတာ</item>
+        <item>ကီလိုမီတာ</item>
+        <item>လက္မ</item>
+        <item>ေပ</item>
+        <item>ကိုက္</item>
+        <item>မိုင္</item>
+    </string-array>
+
+    <string-array name="length_array_Eng">
+        <item>Sanchi</item>
+        <item>Hnan</item>
+        <item>Mayaw</item>
+        <item>Let Thit</item>
+        <item>Maik</item>
+        <item>Htwa</item>
+        <item>Taung</item>
+        <item>Lan</item>
+        <item>Ta</item>
+        <item>Out-Thaba</item>
+        <item>Kawtha</item>
+        <item>Ga-Wout</item>
+        <item>Yuzana</item>
+        <item>Milimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+
+
+    <string-array name="mass_array_MM">
+        <item>ေရြးေလး</item>
+        <item>ေရြးႀကီး</item>
+        <item>ပဲသား</item>
+        <item>မူးသား</item>
+        <item>မတ္သား</item>
+        <item>ငါးမူးသား</item>
+        <item>က်ပ္သား</item>
+        <item>ပိဿာ</item>
+        <item>မီလီဂရမ္</item>
+        <item>ဂရမ္</item>
+        <item>ကီလိုဂရမ္</item>
+        <item>ေအာင္စ</item>
+        <item>ေပါင္</item>
+    </string-array>
+
+    <string-array name="mass_array_Eng">
+        <item>Yway Lay</item>
+        <item>Yway Gyi</item>
+        <item>Petha</item>
+        <item>Mutha</item>
+        <item>Mattha</item>
+        <item>Nga Mutha</item>
+        <item>Kyattha</item>
+        <item>Peittha</item>
+        <item>Miligram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+    </string-array>
+
+    <string-array name="volume_array_MM">
+        <item>မီလီလီတာ</item>
+        <item>လီတာ</item>
+        <item>ေအာင္စ</item>
+        <item>ကြာတား</item>
+        <item>လမု</item>
+        <item>လမ်က္</item>
+        <item>လမယ္</item>
+        <item>စလယ္</item>
+        <item>ခြက္</item>
+        <item>ျပည္</item>
+        <item>စိတ္</item>
+        <item>ခြဲ</item>
+        <item>တင္း</item>
+    </string-array>
+
+
+    <string-array name="volume_array_Eng">
+        <item>Milimeter</item>
+        <item>Liter</item>
+        <item>Fluid Ounce</item>
+        <item>Quart</item>
+        <item>La Myu</item>
+        <item>La Myet</item>
+        <item>La Me</item>
+        <item>Sa Le</item>
+        <item>Hkwet</item>
+        <item>Pyi</item>
+        <item>Seit</item>
+        <item>Hkwe</item>
+        <item>Tin</item>
+    </string-array>
+
+</resources>
